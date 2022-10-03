@@ -1,0 +1,9 @@
+c:\users\corbi_000\documents\visual studio 2015\Projects\FlappyEnterprise\FlappyEnterprise\bin\Debug\FlappyEnterprise.exe.config
+c:\users\corbi_000\documents\visual studio 2015\Projects\FlappyEnterprise\FlappyEnterprise\bin\Debug\FlappyEnterprise.exe
+c:\users\corbi_000\documents\visual studio 2015\Projects\FlappyEnterprise\FlappyEnterprise\bin\Debug\FlappyEnterprise.pdb
+c:\users\corbi_000\documents\visual studio 2015\Projects\FlappyEnterprise\FlappyEnterprise\obj\Debug\FlappyEnterprise.csprojResolveAssemblyReference.cache
+c:\users\corbi_000\documents\visual studio 2015\Projects\FlappyEnterprise\FlappyEnterprise\obj\Debug\FlappyEnterprise.Form1.resources
+c:\users\corbi_000\documents\visual studio 2015\Projects\FlappyEnterprise\FlappyEnterprise\obj\Debug\FlappyEnterprise.Properties.Resources.resources
+c:\users\corbi_000\documents\visual studio 2015\Projects\FlappyEnterprise\FlappyEnterprise\obj\Debug\FlappyEnterprise.csproj.GenerateResource.Cache
+c:\users\corbi_000\documents\visual studio 2015\Projects\FlappyEnterprise\FlappyEnterprise\obj\Debug\FlappyEnterprise.exe
+c:\users\corbi_000\documents\visual studio 2015\Projects\FlappyEnterprise\FlappyEnterprise\obj\Debug\FlappyEnterprise.pdb
